@@ -16,7 +16,7 @@ const htmlContent = `
     <title>Student Details</title>
 </head>
 <body style="font-family: Arial, sans-serif; text-align: center; padding: 50px;">
-    <h1 style="color: black;">Student Details</h1>
+    <h1 style="color: blue;">Student Details</h1>
     <p><strong>Name:</strong> ${student.name}</p>
     <p><strong>ID:</strong> ${student.id}</p>
     <p><strong>Course:</strong> ${student.course}</p>

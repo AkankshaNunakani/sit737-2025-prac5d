@@ -9,8 +9,17 @@
   "keywords": [],
   "author": "",
   "license": "ISC",
-  "description": "",
+  "description": "web server project",
   "dependencies": {
-    "express": "^4.21.2"
-  }
+    "express": "^4.21.2",
+    "winston": "^3.17.0"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/AkankshaNunakani/sit737-2025-prac2p.git"
+  },
+  "bugs": {
+    "url": "https://github.com/AkankshaNunakani/sit737-2025-prac2p/issues"
+  },
+  "homepage": "https://github.com/AkankshaNunakani/sit737-2025-prac2p#readme"
 }
